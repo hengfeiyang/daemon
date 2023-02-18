@@ -5,7 +5,7 @@ go daemon func
 
 ```
 import (
-    "github.com/safeie/daemon"
+    "github.com/hengfeiyang/daemon"
 )
 
 func main() {
